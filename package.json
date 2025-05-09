@@ -1,0 +1,13 @@
+{
+  "name": "alldl-api",
+  "version": "1.0.0",
+  "description": "A proxy API service for direct routing of URLs",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
